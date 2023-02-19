@@ -1,0 +1,1 @@
+from penelytics.config import config
